@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ItzMeGuruCharanLol
+- 👋 Hi, I’m @Vesper_ / Gurucharan
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 📫 Can Reach me on discord :) gurucharan.py
